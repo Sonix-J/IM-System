@@ -729,8 +729,8 @@ QScrollBar::sub-line:vertical{
                 <rect>
                  <x>0</x>
                  <y>0</y>
-                 <width>690</width>
-                 <height>558</height>
+                 <width>732</width>
+                 <height>560</height>
                 </rect>
                </property>
                <layout class="QVBoxLayout" name="verticalLayout_6">
@@ -847,13 +847,6 @@ QTableWidget QHeaderView::section {
                 <widget class="QPushButton" name="Modify">
                  <property name="text">
                   <string>Modify</string>
-                 </property>
-                </widget>
-               </item>
-               <item>
-                <widget class="QPushButton" name="Delete">
-                 <property name="text">
-                  <string>Delete</string>
                  </property>
                 </widget>
                </item>
